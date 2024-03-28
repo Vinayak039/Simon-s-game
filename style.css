@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-color: #011F3F;
+    color: #f5b99b;
+}
+#level{
+    font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    margin:2.5rem;
+    border-radius: 10%;
+    border: 7px solid #03080f;
+}
+.btn:hover{
+    border: 9px solid #5e5f60;
+}
+.red{
+    background-color: #9e4b37;
+}
+.blue{
+    background-color: #FF9B50;
+}
+.yellow{
+    background-color: #FFC7EA;
+}
+.green{
+    background-color: #AEC3AE;
+}
+
+.gameflash{
+    background-color: white;
+}
+.userflash{
+    background-color:rgb(0, 250, 167);
+}
